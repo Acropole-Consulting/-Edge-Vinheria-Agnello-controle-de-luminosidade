@@ -14,7 +14,7 @@
 
 <h2 align="left">🖥️ Circuito</h2>
 <div align="center">
-    <img src="./assets/circuito.png" width="40%">
+    <img src="./assets/circuito.png" width="60%">
 </div>
 
 <h2 align="left">🔌 Conexões Físicas - Passo a Passo</h2>
