@@ -59,7 +59,7 @@
 <h2 align="left">⚙️ Funcionamento</h2>
 <p>
     O sistema opera através da leitura analógica do LDR (54-974), onde:<br>
-    • <span style="color:green">LED Verde</span>: Valores abaixo de 740 (luminosidade ideal)<br>
-    • <span style="color:orange">LED Amarelo</span>: Entre 740-900 (atenção)<br>
-    • <span style="color:red">LED Vermelho</span>: Acima de 900 + buzzer por 3s + alerta de emergência (crítico)<br>
+    • LED Verde: Valores abaixo de 740 (luminosidade ideal)<br>
+    • LED Amarelo: Entre 740-900 (atenção)<br>
+    • LED Vermelho: Acima de 900 + buzzer por 3s + alerta de emergência (crítico)<br>
 </p>
